@@ -62,9 +62,23 @@ npm install
 
 
 Run:
-
-
 npm start
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Inventory Management
+![Inventory](screenshots/inventory.png)
+Watch inventory page
+Add watch/product page
+Customer management
+Sales/order page
+
 
 
 ## Author
